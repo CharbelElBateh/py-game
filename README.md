@@ -1,5 +1,13 @@
-# py-game
+<h1 align="middle">py-game</h1>
 Python FPS game using the pygame library inspired by the classic DOOM game.
+<br>
+<br>
+
+<p align="center">
+  <img href="https://store.steampowered.com/app/379720" 
+    src="https://github.com/CharbelElBateh/py-game/assets/99130418/95354072-6f42-40c7-8cba-7758043dd07f">
+  </img>
+</p>
 
 ## Game Features 🎮
 
